@@ -8,6 +8,7 @@
 
 #pragma comment(lib, "d3dcompiler.lib")
 
+
 using namespace DirectX;
 using namespace Microsoft::WRL;
 using namespace std;
